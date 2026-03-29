@@ -1,4 +1,4 @@
-# transfylitics
+# transfilytics
 Transfilytics is an interactive software tool for analysing transfer functions of analogue filters and continuous linear systems. It supports multiple input formats, automatically classifies filter behaviour, computes key frequency-response parameters, and displays Bode plots and pole-zero maps through a graphical interface.
 
 > **Note:** The current software interface is available in Brazilian Portuguese.
@@ -11,8 +11,8 @@ Transfilytics was designed for educational, academic, and technical use, support
 
 The application currently has two equivalent implementations:
 
-- MATLAB version (`analisador_filtros_v4`)
-- Python version (`ANALISADOR_FILTROS_V4.5`)
+- MATLAB version (`transfilytics-v1.4`)
+- Python version (`transfilytics-v1.5`)
 
 Both versions provide real-time numerical and graphical analysis.
 
